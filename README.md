@@ -8,5 +8,11 @@ In the preprocessing stage, it is mainly to remove the text that does not confor
 Four methods are used in the input embedding stage, including POS, Parse tree, Word2Vec and Bert.
 
 Two models are established, a basic BIi-LSTM model and different attention mechanism added to the basic model.
+ 
+![image](https://user-images.githubusercontent.com/93305654/158726896-46483ffb-1cf9-4740-90a7-27606e79a251.png)
+
+Figure 1: Bi-LSTM CRF model with the attention
+(Created for assignment 2 based on Lecture 9)
+
 
 In the evaluation, the accuracy rates under different input embedding and different attention mechanisms were compared respectively.

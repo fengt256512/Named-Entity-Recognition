@@ -11,8 +11,8 @@ Two models are established, a basic BIi-LSTM model and different attention mecha
  
 ![image](https://user-images.githubusercontent.com/93305654/158726896-46483ffb-1cf9-4740-90a7-27606e79a251.png)
 
-Figure 1: Bi-LSTM CRF model with the attention
-(Created for assignment 2 based on Lecture 9)
+                                       Figure 1: Bi-LSTM CRF model with the attention
+
 
 
 In the evaluation, the accuracy rates under different input embedding and different attention mechanisms were compared respectively.
